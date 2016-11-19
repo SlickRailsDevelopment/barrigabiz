@@ -1,0 +1,47 @@
+<div class="container-fluid text-center">
+<div class="thumbnail">    
+  <div class="row content">
+    <div class="col-sm-2">
+    </div>
+    <div class="services col-sm-10 col-sm-offset-1 text-left"> 
+      <h1>Services</h1>
+</div>
+    <div class="col-sm-2 sidenav">
+  </div>
+</div>
+
+<div class="container">  
+  <div class="row">
+
+<div class="container">    
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="panel panel-primary">
+        <div class="panel-heading">ONE</div>
+        <div class="panel-body"><img src="http://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">This is a description.</div>
+      </div>
+    </div>
+    <div class="col-sm-4"> 
+      <div class="panel panel-primary">
+        <div class="panel-heading">TWO</div>
+        <div class="panel-body"><img src="http://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">This is a description.</div>
+      </div>
+    </div>
+    <div class="col-sm-4"> 
+      <div class="panel panel-primary">
+        <div class="panel-heading">THREE</div>
+        <div class="panel-body"><img src="http://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image"></div>
+        <div class="panel-footer">This is a description.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<br>
+
+</div>
+</div>

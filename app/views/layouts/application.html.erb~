@@ -32,7 +32,6 @@
 }
 
    .navbar {
-      margin-left: 0;
       margin-bottom: 0;
       background-color: #e8edf9;
       color: #676768;
