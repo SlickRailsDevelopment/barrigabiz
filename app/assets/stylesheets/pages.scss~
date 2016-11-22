@@ -23,6 +23,10 @@ body {
       
   }
 
+.services {
+	font-family: 'Dancing Script', cursive;
+}
+
 .services h1 {
 	font-family: 'Dancing Script', cursive;
 	color: #676768;
@@ -56,5 +60,10 @@ body {
 
 h1 {
 	font-family: 'Dancing Script', cursive;
+}
+
+.rounded {
+  border-radius: 10px;
+  background: #000; 
 }
 
