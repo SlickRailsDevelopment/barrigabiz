@@ -11,11 +11,12 @@ html{
 
 body {
 	padding: 0;
-	background-image: url(image-path('coloring.jpg'));
+	background-image: url(image-path('.jpg'));
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100% 100%;
-	}
+}
+
 
 .container-fluid {
       padding: 60px 60px;
@@ -24,7 +25,36 @@ body {
 
 .services h1 {
 	font-family: 'Dancing Script', cursive;
-	color: #4cbf97;
+	color: #676768;
 }
 
+.sessions h4 {
+	font-family: 'Dancing Script', cursive;
+	color: #676768;
+}
+
+.sessions p {
+	font-family: 'Dancing Script', cursive;
+}
+
+.home {
+	font-family: 'Dancing Script', cursive;
+}
+
+.contact {
+	font-family: 'Dancing Script', cursive;
+}
+
+
+.bio {
+	font-family: 'Dancing Script', cursive;
+}
+
+.video {
+	font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+	font-family: 'Dancing Script', cursive;
+}
 
