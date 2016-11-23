@@ -9,23 +9,19 @@
    
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <%= image_tag('4.jpg', style: 'height: auto') %>     
+        <%= image_tag('4.jpg', style: 'height: auto', align: "middle") %>     
       </div>
  
 <div class="item">
-        <%= image_tag('3.jpg', style: 'height: auto') %>     
+        <%= image_tag('3.jpg', style: 'height: auto', align: "middle") %>     
       </div>
 
       <div class="item">
-        <%= image_tag('6.jpg', style: 'height: auto') %>     
+        <%= image_tag('6.jpg', style: 'height: auto', align: "middle") %>     
       </div>
 
 	<div class="item">
-        <%= image_tag('1.jpg', style: 'height: auto') %>     
-      </div>
-
-	<div class="item">
-        <%= image_tag('7.jpg', style: 'height: auto') %>     
+        <%= image_tag('7.jpg', style: 'height: auto', align: "middle") %>     
       </div>
     </div>
 
