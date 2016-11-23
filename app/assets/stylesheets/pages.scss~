@@ -22,7 +22,7 @@ h1 {
 	font-family: 'Cinzel Decorative', cursive;
 }
 
-h3{
+h3 {
 	font-family: 'Cinzel Decorative', cursive;
 }
 
@@ -31,7 +31,7 @@ h4 {
 }
 
 p {
-	font-family: 'Playfair Display', serif;
+    font-family: 'Abhaya Libre', serif;
 }
 
 .container-fluid {
@@ -49,22 +49,6 @@ p {
 	color: #676768;
 }
 
-.sessions p {
-	font-family: 'Playfair Display', serif;
-}
-
-.contact p {
-	font-family: 'Playfair Display', serif;
-}
-
-
-.bio p {
-	font-family: 'Playfair Display', serif;
-}
-
-.video p {
-	font-family: 'Playfair Display', serif;
-}
 
 .rounded {
   border-radius: 20px;

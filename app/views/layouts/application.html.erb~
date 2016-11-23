@@ -12,6 +12,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Cinzel+Decorative:400,700|Playfair+Display" rel="stylesheet"> 
+   <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre" rel="stylesheet"> 
 
 
   <style>
@@ -43,7 +44,7 @@
       line-height: 1.42857143 !important;
       letter-spacing: 4px;
       border-radius: 0;
-      font-family: 'Cinzel Decorative', cursive;
+      font-family: Montserrat, sans-serif;
   }
   .navbar li a, .navbar .navbar-brand {
       color: #676768 !important;
