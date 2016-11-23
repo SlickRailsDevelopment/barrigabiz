@@ -19,19 +19,20 @@ body {
 
 
 h1 {
-	font-family: 'Cinzel Decorative', cursive;
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	color: #000000;
 }
 
 h3 {
-	font-family: 'Cinzel Decorative', cursive;
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
 h4 {
-	font-family: 'Cinzel Decorative', cursive;
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
 }
 
 p {
-    font-family: 'Abhaya Libre', serif;
+    	
 }
 
 .container-fluid {
@@ -40,13 +41,13 @@ p {
   }
 
 .services h1 {
-	font-family: 'Cinzel Decorative', cursive;
-	color: #676768;
+	font-family: 'Raleway', Helvetica, Arial, sans-serif;
+	color: #000000;
 }
 
 .sessions h4 {
-	font-family: 'Playfair Display', serif;
-	color: #676768;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #000000;
 }
 
 
