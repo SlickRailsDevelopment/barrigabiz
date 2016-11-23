@@ -25,7 +25,7 @@
     <div class="col-sm-4 col-sm-offset-2">
       <div class="panel panel-primary">
         <div class="panel-heading">30 Minutes</div>
-        <div class="panel-body"><%= image_tag('6.jpg', style: 'height: 200px, width: 100%', class: 'img-responsive') %></div>
+        <div class="panel-body"><%= image_tag('2.jpg', style: 'height: 200px, width: 100%', class: 'img-responsive') %></div>
         <div class="panel-footer">Includes 25 minutes of instruction and 5 minutes of transition.</div>
       </div>
     </div>
@@ -50,9 +50,6 @@
 	<strong><h4>LOCAL WORKSHOPS</h4></strong>
   
 
-<div class="container">  
-  <div class="row">
-
   <div class="row slideanim">    
     <div class="col-sm-8 col-xs-12 col-sm-offset-2">
       <div class="panel panel-default text-center">
@@ -65,8 +62,6 @@
     </div>
   </div>
 
-  </div>
-</div>
 
 </div>
 </div>
@@ -76,9 +71,6 @@
   <div class="row content">
 	<strong><h4>TRAVELING WORKSHOPS</h4></strong>
 
-
-<div class="container">  
-  <div class="row">
 
   <div class="row slideanim">    
     <div class="col-sm-8 col-xs-12 col-sm-offset-2">
@@ -91,8 +83,6 @@
     </div>
   </div>
 
-  </div>
-</div>
 </div>
 
 
