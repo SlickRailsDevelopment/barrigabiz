@@ -1,34 +1,15 @@
+
 <div id="home" class="container-fluid bg-1 text-center">
   <div class="row">
 
     <div class="col-sm-12">  
 	<div class="thumbnail">
+	<div class="jumbotron text-center">
+	</div>
 
-<div class="jumbotron text-center">
-<div id="carousel" class="carousel slide" data-ride="carousel">
-   
-    <div class="carousel-inner" role="listbox">
-      <div class="item active">
-        <%= image_tag('4.jpg', style: 'height: auto', align: "middle") %>     
-      </div>
- 
-<div class="item">
-        <%= image_tag('3.jpg', style: 'height: auto', align: "middle") %>     
-      </div>
 
-      <div class="item">
-        <%= image_tag('6.jpg', style: 'height: auto', align: "middle") %>     
-      </div>
-
-	<div class="item">
-        <%= image_tag('7.jpg', style: 'height: auto', align: "middle") %>     
-      </div>
-    </div>
-
-</div>
-
-</div>
 		<br><br>
+
 
 <div class="container">
   <div class="row">
@@ -40,6 +21,37 @@
 </div>
 
 		<br><br>
+<div class="container-fluid bg-1 text-center">
+  <div class="row">
+
+    <div class="col-sm-12">
+
+<div class="jumbotron text-center">
+<div id="carousel" class="carousel slide" data-ride="carousel">
+   
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <%= image_tag('4.jpg', style: 'height: auto', align: "center") %>     
+      </div>
+ 
+<div class="item">
+        <%= image_tag('3.jpg', style: 'height: auto', align: "center") %>     
+      </div>
+
+      <div class="item">
+        <%= image_tag('6.jpg', style: 'height: auto', align: "center") %>     
+      </div>
+
+	<div class="item">
+        <%= image_tag('7.jpg', style: 'height: auto', align: "center") %>     
+      </div>
+    </div>
+	</div>
+    </div>
+
+
+		<br><br>
+
 <div class="container">
   <div class="row">
     <div class="col-sm-10 col-sm-offset-1 text-center">
@@ -53,8 +65,10 @@
 </div>
 
 <br>
-	</div>
-    </div>
+
+
+  </div>
+</div>
 
   </div>
 </div>
