@@ -68,7 +68,7 @@
   }
 
   .panel {
-      border: 5px solid #4cbf97; 
+      border: 5px solid #9ea9c1; 
       border-radius:0 !important;
       transition: box-shadow 0.5s;
   }
@@ -144,10 +144,10 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#Navbar">
+#<nav class="navbar navbar-default navbar-fixed-top">
+  #<div class="container">
+    #<div class="navbar-header">
+      #<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#Navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
