@@ -108,7 +108,7 @@
 
 <div class="sessions container-fluid text-center">    
   <div class="row content">
-	<strong><h4>VIDEO CONSULTATION</h4></strong>
+	<strong><h4>LESSON PLANS</h4></strong>
 
 <div class="container">  
   <div class="row">
@@ -117,41 +117,15 @@
     <div class="col-sm-8 col-xs-12 col-sm-offset-2">
       <div class="panel panel-default text-center">
         <div class="panel-body">
-          <p><strong>Send in a video</strong> working with your student, and Adriana will give you feedback on your performance via email or skype.</p>
+          <p><strong>Individualized</strong> lesson plans are available for purchase.</p>
+	  <p><strong>May request</strong> subject or content.</p>
+	  <p><strong>Tailored</strong> to age and skill level.</p>
         </div>
       </div>      
     </div>
   </div>
 
 
-  </div>
-</div>
-
-<div class="sessions container-fluid text-center">  
-  <div class="row content">
-	<strong><h4>LESSON PLANS</h4></strong>
-
-<div class="container">  
-  <div class="row">
-
-<div class="container">    
-  <div class="row">
-    <div class="col-sm-3 col-sm-offset-1">
-      <div class="rounded panel-primary">
-        <div class="panel-body"><strong>Available for purchase.</strong></div>
-      </div>
-    </div>
-    <div class="col-sm-4"> 
-      <div class="rounded panel-primary">
-        <div class="panel-body"><strong>May request subject or content.</strong></div>
-      </div>
-    </div>
-     <div class="col-sm-3"> 
-      <div class="rounded panel-primary">
-        <div class="panel-body"><strong>Tailored to age and skill level.</strong></div>
-      </div>
-    </div>
-    
   </div>
 </div>
 
