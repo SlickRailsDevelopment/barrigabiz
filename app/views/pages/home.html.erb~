@@ -5,7 +5,7 @@
     <div class="col-sm-12 text-center">  
 	<div class="thumbnail">
 	<div class="jumbotron col-sm-10 col-sm-offset-1 text-center">
-		<%= image_tag('logo.jpg', style: 'height: auto', align: "center") %>   
+		<%= image_tag('logo.png', style: 'height: auto', align: "center") %>   
 	</div>
 
 
@@ -62,7 +62,7 @@
   <div class="row">
     <div class="col-sm-10 col-sm-offset-1 text-center">
       <h3>Who can benefit from RPM?</h3>
-      <p>RPM is for persons with autism and related disorders. It is beneficial for students of varying verbal abilities, including verbal, limited verbal echolalic, unreliably verbal, and nonverbal students. </p>
+      <p>RPM is for persons with autism and related disorders. It is beneficial for students of varying verbal abilities, including verbal, limited verbal, echolalic, unreliably verbal, and nonverbal students. Adriana works with students of all ages, skill levels, and behaviors, including aggression.</p>
 <br>
 	<p><strong>For more information on RPM please visit <a target="_blank" href="http://www.halo-soma.org">www.halo-soma.org</a></strong></p>
 
