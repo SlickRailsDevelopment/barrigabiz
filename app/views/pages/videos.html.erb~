@@ -12,8 +12,12 @@
 <div class="container">    
   <div class="row">
     <div class="col-sm-12">
-	<div class="embed-responsive embed-responsive-4by3">	
-	<iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=dc216full" width="480" height="400"></iframe>
+	<div class="embed-responsive embed-responsive-4by3">
+
+<a target="_blank" href="http://www.youtube.com/channel/UCrfDJSLbK0ttMW7LNcGBXKA">RPM of Texas on YouTube</a>
+	
+	<iframe src="https://ytchannelembed.com/ytce-gallery.php?user=UCrfDJSLbK0ttMW7LNcGBXKA&rows=3&ratio=hd&width=130&margin=15&desc="100&desc_color=9E9E9E&title=30&title_color=000000&https=0&duration=1&views=1&likes=1&dislikes=1&fav=1&cols=3" style="width:100%;max-width:420px;" class="ytce"></iframe>
+
 	</div>
     </div>
   </div>
